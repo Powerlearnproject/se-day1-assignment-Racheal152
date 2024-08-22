@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering involves designing, implementing, testing and deployment of software products in a systematic way.
+   Software engineering involves designing, implementing, testing and deployment of software products in a systematic way.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programmimg languages like Fortran so that programming would be more efficient,in 1950s.
@@ -24,44 +24,51 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
- waterfall methodology follows a step by step approach with distinct phases, a phase should be completed before moving to the next. It can be applied in a project whose scope is well defined and unlikely to change while the agile methodology involves breaking the project into sprints and is iterative for adaptation, it can be applied in a project whose requirements might change in accordance with the emerging trends. 
+   waterfall methodology follows a step by step approach with distinct phases, a phase should be completed before moving to 
+   the next. It can be applied in a project whose scope is well defined and unlikely to change while the agile methodology 
+   involves breaking the project into sprints and is iterative for adaptation, it can be applied in a project whose 
+   requirements might change in accordance with the emerging trends. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-A software developer writes lines of codes and implements software solutions.
-A quality assurance engineer designs and executes testing plans of the software to ensure high software quality.
-A project manager designs the overall structure and architecture of software.
+  A software developer writes lines of codes and implements software solutions.
+  A quality assurance engineer designs and executes testing plans of the software to ensure high software quality.
+  A project manager designs the overall structure and architecture of software.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-IDEs enhance productivity by providing features like error detection and code completion thus helping the developers to write codes faster,eg; visual studio code.
-VCS enhances collaboration by offering software tools for tracking changes to source code and coordinating work among team members eg; Git.
+  IDEs enhance productivity by providing features like error detection and code completion thus helping the developers to 
+  write codes faster,eg; visual studio code.
+  VCS enhances collaboration by offering software tools for tracking changes to source code and coordinating work among team 
+  members eg; Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Tight deadlines can be overcomed by prioritization of tasks.
-Changing requirements can be overcomed by using agile methodologies.
-Debugging can be overcomed by using integrated debugging tools within IDEs.
+1. Tight deadlines can be overcomed by prioritization of tasks.
+2. Changing requirements can be overcomed by using agile methodologies.
+3. Debugging can be overcomed by using integrated debugging tools within IDEs.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-Unit testing is testing the individual modules of the software.
-Integration testing is testing the way subsystems interact with one another within the system.
-System testing is testing the whole software system.
-Acceptance testing is testing whether the software meets the user reqirements by analysing them with each other.
-Testing helps to identify and fix defects early in during the deelopment process.
+1. Unit testing is testing the individual modules of the software.
+2. Integration testing is testing the way subsystems interact with one another within the system.
+3. System testing is testing the whole software system.
+4. Acceptance testing is testing whether the software meets the user reqirements by analysing them with each other.
+5. Testing helps to identify and fix defects early in during the deelopment process.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is crafting questions or instructions in a way that you can get the best and most appropriate response from a robot or AI which helps in performing tasks on behalf of humans and deliver the right answer or solution.
+  Prompt engineering is crafting questions or instructions in a way that you can get the best and most appropriate response 
+  from a robot or AI which helps in performing tasks on behalf of humans and deliver the right answer or solution.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-VAGUE PROMPT "Solve this equation 1 + 2"
+  VAGUE PROMPT "Solve this equation 1 + 2"
 
-IMPROVED PROMPT "Solve this equation 1 + 2 and provide a step by step working"
+  IMPROVED PROMPT "Solve this equation 1 + 2 and provide a step by step working"
 
-The improved prompt is more effective because it clearly states what the user expects as an output and specifies the way the user wants the equation to be displayed.
+  The improved prompt is more effective because it clearly states what the user expects as an output and specifies the way 
+  the user wants the equation to be displayed.
